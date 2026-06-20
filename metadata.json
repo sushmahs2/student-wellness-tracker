@@ -1,0 +1,6 @@
+{
+  "name": "Mental Wellness Tracker",
+  "description": "An empathetic mental wellness tracker for JEE/NEET students, featuring stress analysis, coping strategies, and support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
